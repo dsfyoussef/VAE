@@ -9,7 +9,6 @@ c. Visualizing the Dataset
 The visualize_batch function displays a grid of images from a batch, helping to confirm that the data is correctly loaded.
 2. VAE Components
 A Variational Autoencoder (VAE) is composed of three main parts: the Encoder, the Sampling Layer, and the Decoder.
-
 a. Encoder
 Purpose: Encodes input images into a compact latent space representation.
 Architecture:
